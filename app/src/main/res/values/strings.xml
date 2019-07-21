@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">首页</string>
+    <string name="category">分类</string>
+    <string name="midplus">发布</string>
+    <string name="message">消息</string>
+    <string name="account">我的</string>
+    <string name="todo">TODO</string>
+    <string name="follow">关注</string>
+    <string name="hot">发现</string>
+    <string name="nearby">附近</string>
+    <string name="line_item_account_name">一个普通的用户名</string>
+    <string name="linear_item_time">2分钟前</string>
+    <string name="linear_item_title">论一名合格极客的桌面文化此标题不超过一行...</string>
+    <string name="linear_item_detail">拥有一套炫酷的装备，是许多极客发烧友的标配。那么，怎样才能利用他打造出属于你的炫酷私人工作体验桌面，让...更多</string>
+    <string name="linear_item_like">583</string>
+</resources>
